@@ -13,7 +13,7 @@ exports.seed = function(knex, Promise) {
           rating: 7.4
         },
         { id: 3,
-          name: 'Fez',
+          name: 'Anti-Chamber',
           developer: 'Demruth',
           rating: 8.1,
         }
